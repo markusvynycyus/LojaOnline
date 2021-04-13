@@ -1,5 +1,5 @@
 # LojaOnline
-Sisteama de de e-commerce.
+Sistema de e-commerce.
 
 `PRINCIPAIS FUNCIONALIDADES:`
 ~~~
