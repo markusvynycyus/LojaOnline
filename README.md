@@ -1,5 +1,5 @@
 # LojaOnline
-Plataforma de e-commerce com as funcionalidades essencias.
+Sisteama de de e-commerce.
 
 `PRINCIPAIS FUNCIONALIDADES:`
 ~~~
