@@ -1,6 +1,8 @@
 # LojaOnline
 Plataforma de e-commerce com as funcionalidades essencias.
 
+`PRINCIPAIS FUNCIONALIDADES:`
+~~~
 1 )  procurar produtos. 
 2 ) adicionar aos carrinhos de compra.
 3 ) aplicar códigos de descontos. 
